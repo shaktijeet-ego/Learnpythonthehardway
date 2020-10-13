@@ -8,3 +8,6 @@ print(script)
 print(first)
 print(second)
 print(third)
+
+
+#with argv need to send values to script file
