@@ -29,7 +29,7 @@ elif door == "2":
 
     if insanity == "1" or insanity == "2":
         print("Your body survives powered by a mind of jello")
-        print("Good Jpb !!!!!!!")
+        print("Good Job !!!!!!!")
     else:
         print("The insanity rots your eye into a pool of muck.")
         print("Good Job")
